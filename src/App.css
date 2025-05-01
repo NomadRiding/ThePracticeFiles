@@ -1,3 +1,5 @@
 body {
   font-family: "Arial", sans-serif !important; /* Use a clean, web-safe font */
+  margin: 0;
+  padding: 0;
 }

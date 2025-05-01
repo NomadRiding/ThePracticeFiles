@@ -1,0 +1,7 @@
+.projects-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  padding: 20px;
+  height: 70vh;
+}
