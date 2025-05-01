@@ -10,7 +10,7 @@ function NavBar() {
       </h1>
       <ul>
         <li>
-          <Link to="/Hangman">Projects</Link>
+          <Link to="/Projects">Projects</Link>
         </li>
         <li>
           <Link to="/About">About</Link>
